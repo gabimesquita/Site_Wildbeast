@@ -1,4 +1,4 @@
-# Site Wildbeast 🐺
+# Site Wildbeast (Origamid) 🐺
  
 
 <p>Projeto do curso da Origamid, feito em HTML e CSS.</p>
